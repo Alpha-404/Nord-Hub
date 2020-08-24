@@ -1,3 +1,3 @@
-if game.GameId == 142823291 then
+if game.GameId == 1962086868 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Alpha-404/Nord-Hub/master/Scripts/MM2.txt"))();
  end
